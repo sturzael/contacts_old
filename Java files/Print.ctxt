@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=first\ second
+comment0.target=Print(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Print\ Constructor\r\n\ Confirms\ that\ the\ they\ are\ the\ same\ ones\ as\ above\r\n\r\n\ @param\ A\ String\ first\r\n\ @param\ A\ String\ second\r\n
+comment1.params=
+comment1.target=java.lang.String\ fst()
+comment1.text=\r\n\ Method\ fst\r\n\r\n\ @return\ first\r\n
+comment2.params=
+comment2.target=java.lang.String\ snd()
+comment2.text=\r\n\ Method\ snd\r\n\r\n\ @return\ second\r\n
+numComments=3

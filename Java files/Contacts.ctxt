@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Contacts()
+comment1.params=name
+comment1.target=java.lang.String\ getNumber(java.lang.String)
+comment1.text=\r\n\ Method\ getNumber\r\nGets\ the\ number\ by\ asking\ for\ the\ name\r\n\ @param\ name\ A\ parameter\r\n\ @return\ The\ return\ value\r\n
+comment2.params=name\ number\ picture
+comment2.target=void\ addContact(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Method\ addContact\r\nAdds\ a\ contact\ by\ asking\ the\ user\ for\ the\ details\ and\ then\ putting\ them\ into\ the\ map\r\n\ @param\ name\ A\ parameter\r\n\ @param\ number\ A\ parameter\r\n\ @param\ picture\ A\ parameter\r\n
+comment3.params=name
+comment3.target=java.lang.String\ getPicture(java.lang.String)
+comment3.text=\r\n\ Method\ getPicture\r\nGets\ the\ picture\ by\ using\ the\ contacts\ name\r\n\ @param\ name\ A\ parameter\r\n\ @return\ The\ return\ value\r\n
+comment4.params=contact
+comment4.target=Print[]\ getAll(java.lang.String)
+comment4.text=\r\n\ Method\ getAll\r\n\ \r\nruns\ the\ get\ all\ numbers\ method\ to\ get\ all\ numbers\r\n\ @param\ contact\ A\ parameter\r\n\ @return\ The\ return\ value\r\n
+numComments=5

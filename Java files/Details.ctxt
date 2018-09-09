@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Details()
+comment1.params=
+comment1.target=java.lang.String\ getPicture()
+comment1.text=\r\n\ Method\ getPicture\r\nGets\ the\ picture\ by\ using\ a\ keyset\r\n\ @return\ The\ return\ value\r\n
+comment2.params=number\ picture
+comment2.target=void\ addDetails(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Method\ addDetails\r\nadds\ the\ contacts\ details\r\n\ @param\ number\ A\ parameter\r\n\ @param\ picture\ A\ parameter\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNumber()
+comment3.text=\r\n\ Method\ getNumber\r\nGets\ the\ number\r\n\ @return\ The\ return\ value\r\n
+comment4.params=
+comment4.target=Print[]\ getAllNumbers()
+comment4.text=\r\n\ Method\ getAllNumbers\r\ngets\ all\ numbers\r\n\ @return\ The\ return\ value\r\n
+numComments=5

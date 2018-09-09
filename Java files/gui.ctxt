@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=gui()
+comment1.params=action\ x\ y
+comment1.target=void\ doMouse(java.lang.String,\ double,\ double)
+comment1.text=\r\n\ Method\ doMouse\r\nif\ the\ graphics\ pane\ is\ clicked\ then\ clear\ the\ pane\r\n\ @param\ action\ A\ parameter\r\n\ @param\ x\ A\ parameter\r\n\ @param\ y\ A\ parameter\r\n
+comment2.params=button
+comment2.target=void\ doButton(java.lang.String)
+comment2.text=\r\n\ Method\ doButton\r\nthis\ tells\ the\ program\ what\ to\ do\ when\ certain\ buttons\ are\ pressed\r\n\ @param\ button\ A\ parameter\r\n
+comment3.params=
+comment3.target=void\ addContact()
+comment3.text=\r\n\ Method\ addContact\r\nAsks\ the\ user\ the\ contact\ details,\ then\ let\ the\ user\ know\ that\ the\ user\ has\ been\ added\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=
+comment5.target=void\ showContact()
+comment5.text=\r\n\ Method\ showContact\r\nShow\ the\ contact\ number\ and\ name\ and\ then\ draw\ the\ image\ into\ the\ graphics\ pane\r\n
+comment6.params=
+comment6.target=void\ printAll()
+comment6.text=\r\n\ Method\ printAll\r\n\ print\ all\ names\ and\ number.\r\n\ Dont\ print\ images\r\n
+numComments=7
